@@ -1,4 +1,4 @@
-from models.salary_model import Salary
+from models.salary_models import Salary
 from sqlalchemy.orm.session import Session
 
 

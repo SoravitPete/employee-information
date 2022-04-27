@@ -1,4 +1,4 @@
-from models.employee_personal_info_models_models import EmployeeInfo
+from models.employee_personal_info_models import EmployeeInfo
 from sqlalchemy.orm.session import Session
 
 

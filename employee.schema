@@ -6,7 +6,7 @@ CREATE TABLE IF NOT EXISTS salary (
     FOREIGN KEY (person_id) REFERENCES personal_info(person_id)
 );
 
-CREATE TABLE IF NOT EXISTS personal_info (
+CREATE TABLE IF NOT EXISTS employee_personal_info (
     person_id             INTEGER PRIMARY KEY,
     gender            varchar(255) NOT NULL,
     contract      varchar(255) NOT NULL,

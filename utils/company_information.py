@@ -6,7 +6,7 @@ from utils.dao.employee_personal_info_dao import EmployeeInfoDao
 class CompanyInfo:
 
 
-  def __init__(self, connection_url="sqlite:///sample.db"):
+  def __init__(self, connection_url="sqlite:///employee.db"):
     engine = create_engine(connection_url)
     session = sessionmaker(bind=engine)
     self.__db_session = session()

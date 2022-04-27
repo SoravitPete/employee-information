@@ -5,7 +5,7 @@ Base = declarative_base()
 
 
 class EmployeeInfo(Base):
-    __tablename__ = "employee_info"
+    __tablename__ = "employee_personal_info"
 
     person_id = Column(Integer, primary_key=True, nullable=False)
     gender = Column(Text, nullable=False)
