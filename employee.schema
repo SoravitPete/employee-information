@@ -12,5 +12,5 @@ CREATE TABLE IF NOT EXISTS personal_info (
     contract      varchar(255) NOT NULL,
     city          varchar(255) NOT NULL,
     street        varchar(255) NOT NULL,
-    education     varchar(255) NOT NULL,
+    education     varchar(255) NOT NULL
 );
