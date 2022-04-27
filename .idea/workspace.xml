@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d8aa13f-8c84-4577-bb37-e0dff4b13326" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/data/employee_personal_info.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/employee_personal_info.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/salary.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/salary.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +11,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="28N341gxOg4Mn32IAwWjL4hamt6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />

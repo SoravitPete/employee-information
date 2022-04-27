@@ -1,0 +1,16 @@
+CREATE TABLE IF NOT EXISTS salary (
+    person_id            INTEGER PRIMARY KEY AUTOINCREMENT,
+    person_first_name varchar(255)    NOT NULL,
+    person_last_name varchar(255)     NOT NULL,
+    salary       INTEGER DEFAULT 0,
+    FOREIGN KEY (person_id) REFERENCES personal_info(person_id)
+);
+
+CREATE TABLE IF NOT EXISTS personal_info (
+    person_id             INTEGER PRIMARY KEY,
+    gender            varchar(255) NOT NULL,
+    contract      varchar(255) NOT NULL,
+    city          varchar(255) NOT NULL,
+    street        varchar(255) NOT NULL,
+    education     varchar(255) NOT NULL,
+);
