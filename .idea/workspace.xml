@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d8aa13f-8c84-4577-bb37-e0dff4b13326" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/utils/dao/employee_personal_info_dao.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/employee_personal_info.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/employee_personal_info.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/salary.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/salary.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee.db" beforeDir="false" afterPath="$PROJECT_DIR$/employee.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,5 +68,16 @@
       <updated>1651043024404</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
