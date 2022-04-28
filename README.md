@@ -4,8 +4,7 @@ which is contain employee data
 
 # Setups for project
 
-1.Create employee.db
-For the Window,
+1.Create employee.db for the Window,
 ```
 sqlite3 employee.db --init employee.schema
 ```
