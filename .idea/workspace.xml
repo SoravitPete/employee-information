@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d8aa13f-8c84-4577-bb37-e0dff4b13326" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/employee-information.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/employee-information.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee.schema" beforeDir="false" afterPath="$PROJECT_DIR$/employee.schema" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/employee_personal_info_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/employee_personal_info_models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/salary_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/salary_models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/company_information.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/company_information.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/dao/employee_personal_info_dao.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/dao/employee_personal_info_dao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/dao/salary_dao.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/dao/salary_dao.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
