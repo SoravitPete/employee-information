@@ -30,3 +30,7 @@ Example of the data in this project.
 | person_id | gender | contract | city | street | education |
 |----|------------|------------|-----|-----|-----|
 | 1 | Male | Chad_Weatcroft3093@nickia.com | Honolulu | Maple Tunnel | Corporate university |
+
+# Documents
+
+[UML Class Diagram](https://github.com/SoravitPete/employee-information/wiki/UML-Class-Diagram)  
